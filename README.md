@@ -1,4 +1,4 @@
-# Terraform Infrastructure Setup
+Final Project-Varun-8946811
 
 This repository contains Terraform configurations to provision AWS infrastructure, including a VPC, EC2 instance, S3 bucket for state management, and a DynamoDB table for state locking.
 
