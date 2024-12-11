@@ -42,12 +42,16 @@ vpc_cidr             = "10.0.0.0/16"
 public_subnet_cidr   = "10.0.1.0/24"
 environment          = "development"
 
+##Steps to execute:
 
 git clone https://github.com/yourusername/terraform-infrastructure.git
 cd terraform-infrastructure
 
 
 terraform init
+
+terraform plan
+
 
 terraform apply
 
